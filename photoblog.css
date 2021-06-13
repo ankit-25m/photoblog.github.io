@@ -1,0 +1,16 @@
+img{
+	margin:1.55%;
+	height:30%%;
+	width:30%;
+	/*float:left;*/
+}
+p{
+	font-family: "Dancing Script",cursive;
+	font-size:25px;
+	font-weight:bold; 
+	text-transform: uppercase;
+	margin: 1.55%; 	
+	border-bottom: 5px solid #F2F2B2;
+	width:40%;
+	padding-bottom: 20px; 
+}
